@@ -1,0 +1,7 @@
+C:\Users\NAHID\documents\visual studio 2010\Projects\CustomerQueueManagementApps\CustomerQueueManagementApps\bin\Release\CustomerQueueManagementApps.exe
+C:\Users\NAHID\documents\visual studio 2010\Projects\CustomerQueueManagementApps\CustomerQueueManagementApps\bin\Release\CustomerQueueManagementApps.pdb
+C:\Users\NAHID\documents\visual studio 2010\Projects\CustomerQueueManagementApps\CustomerQueueManagementApps\obj\x86\Release\CustomerQueueManagementApps.Form1.resources
+C:\Users\NAHID\documents\visual studio 2010\Projects\CustomerQueueManagementApps\CustomerQueueManagementApps\obj\x86\Release\CustomerQueueManagementApps.Properties.Resources.resources
+C:\Users\NAHID\documents\visual studio 2010\Projects\CustomerQueueManagementApps\CustomerQueueManagementApps\obj\x86\Release\CustomerQueueManagementApps.csproj.GenerateResource.Cache
+C:\Users\NAHID\documents\visual studio 2010\Projects\CustomerQueueManagementApps\CustomerQueueManagementApps\obj\x86\Release\CustomerQueueManagementApps.exe
+C:\Users\NAHID\documents\visual studio 2010\Projects\CustomerQueueManagementApps\CustomerQueueManagementApps\obj\x86\Release\CustomerQueueManagementApps.pdb

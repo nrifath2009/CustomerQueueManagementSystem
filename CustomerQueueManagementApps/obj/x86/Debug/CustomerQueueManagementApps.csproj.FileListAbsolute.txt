@@ -1,0 +1,8 @@
+C:\Users\NAHID\documents\visual studio 2010\Projects\CustomerQueueManagementApps\CustomerQueueManagementApps\bin\Debug\CustomerQueueManagementApps.exe
+C:\Users\NAHID\documents\visual studio 2010\Projects\CustomerQueueManagementApps\CustomerQueueManagementApps\bin\Debug\CustomerQueueManagementApps.pdb
+C:\Users\NAHID\documents\visual studio 2010\Projects\CustomerQueueManagementApps\CustomerQueueManagementApps\obj\x86\Debug\CustomerQueueManagementApps.Form1.resources
+C:\Users\NAHID\documents\visual studio 2010\Projects\CustomerQueueManagementApps\CustomerQueueManagementApps\obj\x86\Debug\CustomerQueueManagementApps.Properties.Resources.resources
+C:\Users\NAHID\documents\visual studio 2010\Projects\CustomerQueueManagementApps\CustomerQueueManagementApps\obj\x86\Debug\CustomerQueueManagementApps.csproj.GenerateResource.Cache
+C:\Users\NAHID\documents\visual studio 2010\Projects\CustomerQueueManagementApps\CustomerQueueManagementApps\obj\x86\Debug\CustomerQueueManagementApps.exe
+C:\Users\NAHID\documents\visual studio 2010\Projects\CustomerQueueManagementApps\CustomerQueueManagementApps\obj\x86\Debug\CustomerQueueManagementApps.pdb
+C:\Users\NAHID\documents\visual studio 2010\Projects\CustomerQueueManagementApps\CustomerQueueManagementApps\obj\x86\Debug\CustomerQueueManagementApps.csprojResolveAssemblyReference.cache
